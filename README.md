@@ -1,6 +1,6 @@
 Meu Portfólio - Luan Carvalho
 Este repositório contém o código-fonte do meu projeto de portfólio desenvolvido com HTML e CSS.
-[Uploading Gravação de tela de 2024-04-09 00-28-05.webm…]()
+
 
 Descrição
 Este projeto é um site de portfólio pessoal onde apresento meus trabalhos, habilidades e informações sobre mim.
