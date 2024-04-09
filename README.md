@@ -1,5 +1,6 @@
-![Macbook-Air-127 0 0 1](https://github.com/lmcrvlh/luan-carvalho-portfolio/assets/118197260/c8f04d58-8168-4261-9f81-fcdfe4470e36)Meu Portfólio - Luan Carvalho
+Meu Portfólio - Luan Carvalho
 Este repositório contém o código-fonte do meu projeto de portfólio desenvolvido com HTML e CSS.
+[Uploading Gravação de tela de 2024-04-09 00-28-05.webm…]()
 
 Descrição
 Este projeto é um site de portfólio pessoal onde apresento meus trabalhos, habilidades e informações sobre mim.
